@@ -1,0 +1,78 @@
+{
+    "stie": "Canton Lane.cafe",
+    "labguages": ["cn", "en"],
+    "pages": {
+        "index": {
+            "cn": {
+                "title": "喜帖街 - 主页",
+                "brand": "喜帖街",
+                "menu": "菜单",
+                "wechat": "微信",
+                "wechatmodalhint": "长按扫码/保存",
+                "call": "电话",
+                "contact": "联系人",
+                "map": "地图"
+            },
+            "en": {
+                "title": "Canton Lane - Home",
+                "brand": "Canton Lane",
+                "menu": "Menu",
+                "wechat": "Wechat",
+                "wechatmodalhint": "Long press to read/save QR code.",
+                "call": "Call",
+                "contact": "Contact",
+                "map": "Map"
+            }
+        },
+        "menu": {
+            "cn": {
+                "title": "喜帖街 - 菜单",
+                "brand": "菜单",
+                "food": {
+                    "name": "食物",
+                    "category": {
+                        "claypot_rice": {
+                            "name": "煲仔饭",
+                            "irish_breakfast": "广式腊味"
+                            
+                        }
+                    }
+                },
+                "drink": {
+                    "name": "饮品",
+                    "category": {
+                        "beer": {
+                            "name": "啤酒",
+                            "draught_asahi": "朝日扎啤(440毫升)- ¥20"
+                        }
+                    }
+                }
+            },
+            "en": {
+                "title": "Canton Lane - Menu",
+                "brand": "Menu",
+                "food": {
+                    "name": "Food",
+                    "category": {
+                        "claypot_rice": {
+                            "name": "Main Course",
+                            "irish_breakfast": "Irish Breakfast - ¥65"
+                        }
+                    }
+                },
+                "drink": {
+                    "name": "Drink",
+                    "category": {
+                        "beer": {
+                            "name": "Beer",
+                            "draught_asahi": "Draught Asahi (440ml) - ¥20"
+                        }
+                    }
+                }
+            }
+        },
+        "gallery": {
+
+        }
+    }
+}
